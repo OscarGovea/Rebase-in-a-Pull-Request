@@ -1,6 +1,7 @@
 #¿Qué es *REBASE*?
 
 Para entender como funciona *REBASE*, necesitamos entender como funciona Git. Un repositorio Git es una estructura de árbol, donde los nodos del árbol son *commits*. He aquí un ejemplo de un repositorio muy simple: tiene cuatro *commits* en la rama principal, y cada uno tiene un ID de *commit* (en este caso a, b, c, y d ). Se dará cuenta de que **d** es actualmente el último *commit* (o la cabeza) de la rama principal.
+
 ![alt text](https://github.com/OscarGovea/Rebase-in-a-Pull-Request/blob/master/1.png)
 
 
